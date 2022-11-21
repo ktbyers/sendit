@@ -1,0 +1,90 @@
+baseURL = 'http://senditrunning.com/'
+title = 'Send It Running'
+theme = 'puppet'
+
+languageCode = 'en-us'
+defaultContentLanguage = "en"
+
+[markup]
+[markup.highlight]
+noClasses = true
+codeFences = true
+guessSyntax = true
+lineNos = true
+lineNumbersInTable = false
+style = "dracula"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+#[menu]
+#[[menu.main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#weight = -100
+#[[menu.main]]
+#identifier = "archive"
+#name = "Archive"
+#url = "/archive/"
+#weight = 10
+#[[menu.main]]
+#identifier = "guide"
+#name = "Guide"
+#url = "/series/themes-guide/"
+#weight = 20
+#[[menu.main]]
+#identifier = "about"
+#name = "About"
+#url = "/about/"
+#weight = 50
+#[[menu.main]]
+#identifier = "github"
+#name = "Github"
+#url = "https://github.com/roninro/hugo-theme-puppet/"
+#weight = 100
+
+[params]
+author = "Kirk Byers"
+description = "A masters athlete trying to understand the science and practice of running."
+keywords = "blog,developer,personal"
+img_home = "img/dipsea_moors.jpg"
+img_404 = "img/404-bg.jpg"
+
+useFaviconGenerator = true
+
+custom_js = []
+custom_css = [] # ["css/custom.css"]  Add your file to assets folder  [assets/css/custom.css]
+
+[params.sidebar]
+enable = true
+gravatarEmail = ""
+# Overwritten by your gravatar image if `gravatarEmail` is filled
+avatar = "img/rodeo_beach_road.jpg"
+bio = "a personal website"
+
+[params.social]
+rss_enable = true
+twitter = "johndoe"
+facebook = "johndoe"
+github = "johndoe"
+linkedin = "johndoe"
+
+[[params.friends]]
+name = "John Doe"
+url = "https://gohugo.io"
+
+[[params.friends]]
+name = "John Doe"
+url = "https://gohugo.io"
+
+# See https://giscus.app/
+[params.giscus]
+enable = true
+repo = "roninro/hugo-theme-puppet"
+repo_id = "R_kgDOHuvyhw"
+category = "General"
+category_id = "DIC_kwDOHuvyh84CQjDo"
+input_position = "top"
+theme = "light_tritanopia"
+lang = "en"
