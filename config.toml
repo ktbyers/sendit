@@ -47,7 +47,7 @@ unsafe = true
 [params]
 author = "Kirk Byers"
 description = "A masters athlete trying to understand the science and practice of running."
-keywords = "blog,developer,personal"
+keywords = "running,dipsea"
 img_home = "img/dipsea_moors.jpg"
 img_404 = "img/404-bg.jpg"
 
@@ -70,17 +70,13 @@ facebook = "johndoe"
 github = "johndoe"
 linkedin = "johndoe"
 
-[[params.friends]]
-name = "John Doe"
-url = "https://gohugo.io"
-
-[[params.friends]]
-name = "John Doe"
-url = "https://gohugo.io"
+#[[params.friends]]
+#name = "John Doe"
+#url = "https://gohugo.io"
 
 # See https://giscus.app/
 [params.giscus]
-enable = true
+enable = false
 repo = "roninro/hugo-theme-puppet"
 repo_id = "R_kgDOHuvyhw"
 category = "General"
