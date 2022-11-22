@@ -4,41 +4,43 @@ date: 2022-11-21T12:40:04-08:00
 draft: False
 ---
 
-![Dipsea Stairs](/img/dipsea_stairs.jpg)
+![Dipsea Finish](/img/dipsea_moors2.jpg)
 
 Dipsea Explained
 ----------------
-The Dipsea Race is a 7.1 mile (mostly) trail race that starts in Mill Valley, CA and ends at the Pacific Ocean in Stinson Beach. My watch put the elevation gain at 2100 feet.
+The Dipsea Race is a 7.1 mile (mostly) trail race that starts in Mill Valley, CA and ends at the Pacific Ocean in Stinson Beach. It has about 2200 feet in elevation gain.
 
-It consists of essentially two big hills&mdash;the first seven hundred feet climb out of Mill Valley to Panaromic Highway and then the second twelve-hundred feet climb from Muir Woods to the top of a hill known as Cardiac Hill.
+The race consists of essentially two big hills. The first hill is a seven-hundred foot climb out of Mill Valley featuring three big, and unpleasant, stair-cases with a total of about sevend hundred steps. The second hill is a roughly twelve-hundred foot climb from Muir Woods to the top of Cardiac Hill (and that has its own unpleasant stairs in the Dynamite Section).
 
-The Dipsea Race has a few quirks&mdash;first it is an age and gender handicapped race. This meant for me, as a fifty-one year old that I got a six-minute handicap. Yes, I am in the same grouping as thirteen year-olds.
+The Dipsea Race has a few quirks&mdash;first it is an age and gender handicapped race. This meant for me, as a fifty-one year old, that I received a six-minute handicap and was grouped, yes, with the thirteen year-olds. Age spares no one.
 
-This is accomplished by having a handicapped start with the oldest people starting first and the scratch runners starting last.
+This handicapping is accomplished by starting the race in waves with the oldest and youngest starting first and eventually, twenty-five minutes later, having the scratch men start. In between this, there are twenty-four other groups of men and women of varying ages.
 
-To further complicate this, there are two sections&mdash;the invitational section and the standard section. The invitational section goes first in age and gender adjusted waves. After all of the invitational section goes, then the standard section goes.
+The first to cross the finish line wins&mdash;whether it be a twelve year old girl, a twenty-four year old man, or a seventy year old woman.
 
-Once again the standard section starts in age and gender adjusted waves.
+To further complicate the race, there are two sections&mdash;the invitational section and the standard section. All the waves of the invitational section go first and after these twenty-six waves are complete, the process is repeated with another twenty-six waves of the standard section. 
 
-The net-effect of all this is that is a mad-house of constantly passing people and of constantly being passed.
+The net-effect of all this is&mdash;a mad-house of constantly passing and of constantly being passed.
 
-One other Dipsea quirk is that there are two officially sanctioned short-cuts (Swoop and Suicide). There used to be a third short-cut whereby the Moors would be bypassed, but this shortcut was not allowed in 2021 nor in 2022. I wasn't too disappointed by this as I like the Moors quite a bit.
+One other Dipsea quirk is that there are two officially sanctioned short-cuts (Swoop and Suicide). Historically, the race used to be start at point A and run to point B on any route you could find and the first one to the finish line wins. This has been whittled down to only two remaining shortcuts (well technically three if you still count the Moors bypass, but that has been barred in both 2021 and 2022).
 
 
 Race Start
 ----------
-The race start felt fine. I took off up the road out of Mill Valley; I tried to go at a good pace, but not crazy. It is maybe a third of a mile to where the stairs start.
+The race start felt fine. I took off up the road out of Mill Valley; I tried to go at a good pace, but not crazy. It is maybe a third of a mile to where the Dipsea Stairs start.
 
 
-Mill Valley Stairs
-------------------
-The stairs are very crowded. They will always be very crowded in this race. It was not too difficult to pass on the left, but I ended up walking up the vast majority of them. 
+Dipsea Stairs
+-------------
+![Mill Valley Stairs](/img/mill_valley_stairs.jpg)
 
-I probably should strategize on how to do the stairs faster and learn what is optimal for hiking up stairs (some sort of power hiking). There is a rail that you can grab so you can engage your upper body a bit to help pull yourself a long. I did a certain amount of this.
+The stairs are very crowded. In this race, they will always be very crowded. It was not too difficult to pass on the left, but I ended up walking up the vast majority of the stairs.
 
-I should have kept a better eye on my heart rate on the stairs&mdash;it is very easy to let it get too high here. My heart rate was higher than I liked on the first set of stairs (hit 165 which is a bit above LT). I had my heart rate more where I wanted on the last set of stairs, but still pretty high (average 158).
+I need to strategize on how to do the stairs faster and learn more optimal hiking strategy (some sort of power hiking). There is also a rail that you can grab so you can engage your upper body and help pull yourself a long. I did a certain amount of this.
 
-I did pretty well from the top of the stairs to crossing Panaromic Highway, average heart rate of 154 (which is pretty much where I wanted to be) and average grade-adjusted pace of 7:30. I crossed Panoramic Highway at 14:48 (1.2 miles and +690 ft in elevation).
+I also should have kept a better eye on my heart rate here&mdash;it is very easy to let your heart rate get too high in this section. I went above my lactate threshold heart-rate for a bit (which was probably not a good idea this early in the race).
+
+After the stairs, there still is another half mile climb up to the ridge and another three hundred feet of elevation to gain. I did pretty well on this section and crossed Panaromic Highway at 14:48 (1.2 miles in and +690 feet in elevation).
 
 
 Crusing Down to Muir Woods
@@ -104,6 +106,8 @@ My heart rate was pretty elevated all the way down Swoop&mdash;average heart rat
 
 Down the Steep Ravine Stairs
 ----------------------------
+
+![Dipsea Stairs](/img/dipsea_stairs.jpg)
 
 These stairs are crazy steep and one could definitely fall in a not so pleasant way here.
 
