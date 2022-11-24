@@ -1,4 +1,4 @@
-baseURL = 'http://senditrunning.com/'
+baseURL = 'https://senditrunning.com/'
 title = 'Send It Running'
 theme = 'puppet'
 
@@ -64,11 +64,10 @@ avatar = "img/rodeo_beach_road.jpg"
 bio = "a personal website"
 
 [params.social]
-rss_enable = true
-twitter = "johndoe"
-facebook = "johndoe"
-github = "johndoe"
-linkedin = "johndoe"
+#rss_enable = true
+twitter = "kirkbyers"
+github = "ktbyers"
+linkedin = "ktbyers"
 
 #[[params.friends]]
 #name = "John Doe"
