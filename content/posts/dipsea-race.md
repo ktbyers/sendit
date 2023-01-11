@@ -173,7 +173,7 @@ Goal #2 - 1:17:30
 
 I fell short of this by about one hundred seconds. This goal time was definitely an informed guess on my part, but still a guess.
 
-I think I could have marginally improved my time if I had controlled my heart rate more coming out of Mill Valley and on Dynamite, but that still probably would not have been enough to make up one hundred seconds.
+I think I could have marginally improved my time if I had controlled my heart rate more coming out of Mill Valley and on Dynamite, but I doubt I would have made up one hundred seconds.
 
 
 Goal #3 - 1:12:30 (or something thereabouts)
