@@ -147,7 +147,7 @@ I lost a lot of time from Insult Hill to the finish line (relative to other runn
 
 Final stretch
 -------------
-This is a very short section of road that takes you from the trail to the finish line. You try to avoid face-lanting as you come off the embankment and hit Highway 1. From there you run a bit down the side of Highway 1 and cutoff on a road down the beach parking lot.
+This is a very short section of road that takes you from the trail to the finish line. You try to avoid face-planting as you come off the embankment and hit Highway 1. From there you run down a short bit of Highway 1 and cutoff down a road to the beach parking lot.
 
 I did well enough here. A few people passed me, but I kept up my pace well enough.
 
@@ -157,7 +157,7 @@ Goal #1: Qualify for Invitational Section in 2023.
 
 Unfortunately, I missed this by a little over a minute.
 
-In order to make the invitational section you need to be either 1)one of the first 450 people to cross the finish line, or 2)be in the standard section and be one of the first 750 people to cross the finish line. 
+In order to make the invitational section you need to be either 1) one of the first 450 people to cross the finish line, or 2) be in the standard section and be one of the first 750 people to cross the finish line. 
 
 Note, the invitational wave has a 27-minute head start. In other words, a 51-year old male that was in the invitational section would start 27-minutes ahead of me. Consequently, for a standard section runner you really need to be one of the first 750 people to cross the finish line (as you are unlikely to beat people of the same age and gender with a 27-minute head start).
 
@@ -187,9 +187,12 @@ Dipsea Results Page
 
 [Results Page](https://www.dipsea.org/2022/2022prelim.html)
 
-The Dipsea results are a bit confusing due to the age and gender handicapped starts and the two sections (invitational and regular).
+The Dipsea results are a bit confusing due to the age and gender handicapping and the two sections (invitational and regular).
 
 You can translate my results into 1:13:07 (age adjusted time). My actual clock time was 1:19:07 with a handicap adjustment of minus-6 minutes.
 
+
 See you next year...hopefully.
+-------------------
+
 
