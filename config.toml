@@ -1,4 +1,5 @@
-baseURL = 'https://senditrunning.com/'
+#baseURL = 'https://senditrunning.com/'
+baseURL = 'https://ktbyers.github.io/sendit/'
 title = 'Send It Running'
 theme = 'puppet'
 
