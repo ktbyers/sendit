@@ -2,7 +2,7 @@
 baseURL = '//ktbyers.github.io/sendit/'
 title = 'Send It Running'
 theme = 'hugo-theme-puppet'
-canonifyURLs = false
+canonifyURLs = true
 
 languageCode = 'en-us'
 defaultContentLanguage = "en"
