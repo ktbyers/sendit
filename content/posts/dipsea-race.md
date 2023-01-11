@@ -1,6 +1,6 @@
 ---
 title: "Dipsea Race 2022"
-date: 2022-11-21T12:40:04-08:00
+date: 2023-01-09T12:13:04-08:00
 draft: False
 summary: The Dipsea Race is a 7.1 mile (mostly) trail race that starts in Mill Valley, CA and ends at the Pacific Ocean in Stinson Beach. It has about 2200 feet in elevation gain.
 ---
