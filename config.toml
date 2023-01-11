@@ -1,5 +1,5 @@
 #baseURL = 'https://senditrunning.com/'
-baseURL = 'https://ktbyers.github.io/sendit/'
+baseURL = '//ktbyers.github.io/sendit/'
 title = 'Send It Running'
 theme = 'hugo-theme-puppet'
 
