@@ -1,3 +1,5 @@
-themes/*
+themes/hugo-theme-cleanwhite
+themes/hugo-theme-stack
+themes/puppet_old
 .hugo_build.lock
 *.swp
